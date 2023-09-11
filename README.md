@@ -1,0 +1,1 @@
+## This is Safira AI endpoint for background removal.

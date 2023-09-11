@@ -1,0 +1,9 @@
+Flask==2.0.2
+gunicorn
+tqdm==4.64.0
+transformers
+pillow
+torch
+torchvision
+opencv-python
+numpy
